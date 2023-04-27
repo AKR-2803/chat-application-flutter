@@ -28,9 +28,14 @@
 
 #### Message Info
 
-#### <p>Sent messages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Received messages</p>
+<p>Sent messages</p>
 <p>
-<kbd><img src="https://github.com/AKR-2803/chat-application-flutter/blob/main/screenshots/flutter_09.png?raw=true" width="250" height="550"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/AKR-2803/chat-application-flutter/blob/main/screenshots/flutter_08.png?raw=true" width="250" height="550"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/AKR-2803/chat-application-flutter/blob/main/screenshots/flutter_25.png?raw=true" width="250" height="550"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/AKR-2803/chat-application-flutter/blob/main/screenshots/flutter_24.png?raw=true" width="250" height="550"></kbd></p>
+<kbd><img src="https://github.com/AKR-2803/chat-application-flutter/blob/main/screenshots/flutter_09.png?raw=true" width="250" height="550"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/AKR-2803/chat-application-flutter/blob/main/screenshots/flutter_08.png?raw=true" width="250" height="550"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p>Received Messages</p>
+<p>
+<kbd><img src="https://github.com/AKR-2803/chat-application-flutter/blob/main/screenshots/flutter_25.png?raw=true" width="250" height="550"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/AKR-2803/chat-application-flutter/blob/main/screenshots/flutter_24.png?raw=true" width="250" height="550"></kbd>
+</p>
 
 <br>
 
