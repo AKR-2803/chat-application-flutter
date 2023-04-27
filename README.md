@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://raw.githubusercontent.com/AKR-2803/chat-application-flutter/bdd4572bc02ffd75c571bbd109c39deb942a6ea2/screenshots/chatapp.svg" height= 1000>
+<img src="https://raw.githubusercontent.com/AKR-2803/chat-application-flutter/bdd4572bc02ffd75c571bbd109c39deb942a6ea2/screenshots/chatapp.svg">
 </p>
 
 
